@@ -19,3 +19,5 @@ Let us plan new features and discuss together [here](https://github.com/Suplanus
 ![enhancements](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/enhancement?color=%23c6feff&label=enhancements&style=flat-square)
 ![features](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/feature?color=%2384b6eb&label=features&style=flat-square)
 ![requests](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/request?color=%239a45e0&label=requests&style=flat-square)
+
+![](https://build.appcenter.ms/v0.1/apps/954c539e-0437-43cd-80d0-1061bd956113/branches/master/badge)
