@@ -16,7 +16,7 @@ Let us plan new features and discuss together [here](https://github.com/Suplanus
 
 ![bug](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/bug?color=%23fc2929&label=bugs&style=flat-square)
 ![minor-bug](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/minor-bug?color=%23e88b97&label=minor-bugs&style=flat-square)
-![enhancements](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/enhancement?color=%2363feff&label=enhancements&style=flat-square)
+![enhancements](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/enhancement?color=%23b7eaed&label=enhancements&style=flat-square)
 ![features](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/feature?color=%2384b6eb&label=features&style=flat-square)
 ![requests](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/request?color=%239a45e0&label=requests&style=flat-square)
 
