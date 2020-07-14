@@ -15,9 +15,8 @@ Let us plan new features and discuss together [here](https://github.com/Suplanus
 
 
 ![bug](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/bug?color=%23fc2929&label=bugs)
-![minor-bug](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/minor-bug?color=%23e88b97&label=minor-bugs&style=flat-square)
-![enhancements](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/enhancement?color=%23b7eaed&label=enhancements&style=flat-square)
-![features](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/feature?color=%2384b6eb&label=features&style=flat-square)
-![requests](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/request?color=%239a45e0&label=requests&style=flat-square)
-
-![](https://build.appcenter.ms/v0.1/apps/954c539e-0437-43cd-80d0-1061bd956113/branches/master/badge)
+![minor-bug](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/minor-bug?color=%23e88b97&label=minor-bugs)
+![enhancements](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/enhancement?color=%23b7eaed&label=enhancements)
+![features](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/feature?color=%2384b6eb&label=features)
+![requests](https://img.shields.io/github/issues-raw/Suplanus/Cuterdio/request?color=%239a45e0&label=requests)
+![build-status](https://build.appcenter.ms/v0.1/apps/954c539e-0437-43cd-80d0-1061bd956113/branches/master/badge)
